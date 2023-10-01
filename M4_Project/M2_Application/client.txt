@@ -1,0 +1,17 @@
+{
+
+"data":{
+
+    "Frequency":1250,
+
+    "Angle of attack":12.3,
+
+    "Chord length":0.1016,
+
+    "Free-stream velocity":31.7,
+
+    "Suction side":0.041876
+
+}
+
+}
