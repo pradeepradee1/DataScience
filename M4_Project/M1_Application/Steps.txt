@@ -1,0 +1,15 @@
+How to run app. in flask ?
+        python app.py 
+
+gunicorn ?
+    Server to handle the request in web application
+
+CMD gunicorn --workers=4 --bind 0.0.0.0:$PORT app:app ?
+        Workers = incoming request
+
+
+
+Creating Package project
+    Create housing package by manually
+    Create __init__.py    
+    run this command python setup.py install
