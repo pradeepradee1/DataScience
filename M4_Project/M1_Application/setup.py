@@ -1,5 +1,3 @@
-from setuptools import setup
-
 from setuptools import setup,find_packages
 from typing import List
 
@@ -38,3 +36,4 @@ description=DESRCIPTION,
 packages=find_packages(), 
 install_requires=get_requirements_list()
 )
+

@@ -1,0 +1,10 @@
+Steps1 : 
+		Create Virtual env and add new interpretor
+		give this path
+		/home/pradeep.k@zucisystems.com/workspace_working_Repo/DataScience/envname1/bin/python3
+		in the interpretor
+
+Steps2 :
+		Give app.py (flask main python)
+Steps3 : 
+		Run the application and create checkpoint and debug the application
