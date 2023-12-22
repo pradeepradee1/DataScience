@@ -3,3 +3,7 @@
 Pipfile*
 
 env*
+
+*.pickle
+
+*.pkl
