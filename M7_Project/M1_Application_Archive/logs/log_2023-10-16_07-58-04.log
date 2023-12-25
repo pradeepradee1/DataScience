@@ -1,3 +1,0 @@
-[2023-10-16 07:58:04,420]^;WARNING^;96^;_internal.py^;_log()^; * Debugger is active!
-[2023-10-16 07:58:04,420]^;INFO^;96^;_internal.py^;_log()^; * Debugger PIN: 940-296-162
-[2023-10-16 07:58:10,477]^;INFO^;96^;_internal.py^;_log()^; * Detected change in '/home/pradeep.k@zucisystems.com/workspace_working_Repo/DataScience/M4_Project/M1_Application/housing/exception/__init__.py', reloading
